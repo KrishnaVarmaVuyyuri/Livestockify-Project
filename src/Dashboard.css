@@ -1,0 +1,57 @@
+.dashboard {
+    padding: 20px;
+    background-color: #f9f9f9;
+    font-family: 'Arial', sans-serif;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  h2 {
+    color: #2c3e50;
+  }
+  
+  .farm-overview, .device-management, .alerts, .performance-metrics {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .overview-card {
+    padding: 20px;
+    background-color: #e3f2fd;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .status {
+    font-weight: bold;
+  }
+  
+  .green {
+    color: green;
+  }
+  
+  .yellow {
+    color: orange;
+  }
+  
+  .red {
+    color: red;
+  }
+  
+  .device-item {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .device-item:last-child {
+    border-bottom: none;
+  }
+  

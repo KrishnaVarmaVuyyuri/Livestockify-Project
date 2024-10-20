@@ -1,0 +1,40 @@
+.poster {
+    padding: 30px;
+    background-image: linear-gradient(to bottom right, #ffeb3b, #fbc02d);
+    text-align: center;
+    border: 2px solid #f39c12;
+    border-radius: 10px;
+    margin: 20px 0;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  h1 {
+    font-size: 2.5em;
+    margin-bottom: 15px;
+  }
+  
+  .cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff9800;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 15px;
+    transition: background-color 0.3s;
+  }
+  
+  .cta-button:hover {
+    background-color: #e67e22;
+  }
+  
+  .social-media {
+    margin-top: 20px;
+    font-size: 14px;
+  }
+  
+  .hashtags {
+    font-weight: bold;
+    color: #2c3e50;
+  }
+  
